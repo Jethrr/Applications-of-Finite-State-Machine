@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\bin\Debug\Automata Application.exe.config
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\bin\Debug\Automata Application.exe
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\bin\Debug\Automata Application.pdb
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\obj\Debug\Automata Application.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\obj\Debug\Automata Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\obj\Debug\Automata_Application.Form1.resources
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\obj\Debug\Automata_Application.Properties.Resources.resources
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\obj\Debug\Automata Application.csproj.GenerateResource.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\obj\Debug\Automata Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\obj\Debug\Automata Application.exe
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\Automata Application\Automata Application\obj\Debug\Automata Application.pdb
